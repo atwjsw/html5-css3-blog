@@ -1,0 +1,20 @@
+HTML5和CSS3扁平化风格博客
+http://www.imooc.com/learn/445
+
+- 简介：本课程通过CSS3扁平化风格博客的实例详细讲解，让大家更容易理解常规网页的组成部分，灵活的使用不同部分WEB组件，理解它的构成思想，以及网页灵活的布局和设计。我们也可以由宏观到微观去掌握整体的布局。
+
+#CSS reset和CSS normalize
+http://meyerweb.com/eric/tools/css/reset/
+- CSS reset. 重置。全部归0
+- CSS Normalize：常规化， 不全部重置，保留了一下有用的默认样式
+
+#sublime
+- lorem+tab 出现无意义的文字
+- display: inline-block; 左右宽度、margin， padding起作用
+
+#写页面步骤
+1. 结构 - 大的块的HTML （header/content/footer）
+2. 布局 - 内容的位置
+3. 细节 - 颜色、阴影，字体背景等等
+
+Fontawesome
